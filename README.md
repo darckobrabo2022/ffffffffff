@@ -1,1 +1,3 @@
-# ffffffffff
+local keyA = "test"
+
+return keyA
